@@ -1,0 +1,171 @@
+
+body {
+	
+	margin: 0 auto;	
+	padding: O;
+
+}
+
+.container {
+	width: 90%;
+	margin: 0 auto; 
+}
+
+header {
+	font-family: helvetica;
+	height: 70px;
+	width: 100%;
+	display: block;
+	background-color: #fe7e00;
+	color: white;
+
+}
+
+header::after {
+	 content: "";
+	 display: table;
+	 clear: both;
+}
+
+header h1 img {
+	float: left;
+	width: 32px;
+	height: 32px;
+	color: white;
+	margin: 0 auto;
+}
+
+header h1 {
+	font-weight: lighter;
+	margin: 0 auto;
+	float: left;
+	padding-top: 13px;
+	letter-spacing: 7px;
+	font-size: 24px;
+}
+
+header h1 span {
+	font-weight: 500;
+}
+
+nav {
+	float: right;
+}
+
+nav ul {
+	margin: 0;
+	padding-right: 63px;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 50px;
+	padding-top: 25px;
+	font-size: 14px;
+}
+
+.middle {
+	width: auto;
+	display: inline-block;
+	text-align: center;
+
+}
+
+section img {
+	width: 30%;
+	height: 30%;
+	float: left;
+	
+	padding-left: 84px;
+	padding-top: 91px;
+}
+
+section input {
+	background-color: lightgray;
+	text-transform: uppercase;
+	background-image: url("img/searchicon.png");
+	width: 15%;
+	height: 40px;
+	float: right;
+	border-style: none;
+	margin-right: 57px;
+}
+
+section {
+	background-color: white;
+}
+
+section h1 {
+	
+	font-weight: 100;
+	font-size: 40px;
+	font-family: helvetica;
+	color: #fe7e00;
+	letter-spacing: 2.05px;
+	margin-top: 110px;
+	margin-left: 135px;
+	text-align: left;
+	line-height: 44px;
+}
+
+section h1 span {
+	color: #fe7e00;
+	font-weight: bold;
+}
+
+section h1 .teal {
+	color: #7accc8;
+}
+
+section .buttons {
+	position: relative;
+	display: inline-flex;
+	float: left;
+
+
+}
+
+
+.buttons #buttonleft button {
+	color: white;
+	background-color: #fe7e00;
+	border-style: none;
+	margin-top: 27px;
+	margin-left: 137px;
+	font-size: 15px;
+	padding: 15px 55px;
+}
+
+.buttons #buttonright button {
+	color: white;
+	background-color: #7accc8;
+	padding: 15px 55px;
+	border-style: none;
+	margin-left: 137px;
+	margin-top: 27px;
+	font-size: 15px;
+}
+
+section footer {
+	width: 100%;
+	margin-top: 181px;
+	background-color: #7accc8;
+	position: relative;
+	height: 80px;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 

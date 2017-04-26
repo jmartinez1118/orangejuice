@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>OrangeJuicePsd</title>
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+
+			<h1><img src="img/orange.png"><span>orange</span>juice<sup>&#8482;</sup></h1>
+		</div>
+
+		
+		<nav>
+			<ul>
+				
+				<li>HOME</li>
+				<li>ABOUT</li>
+				<li>CASE STUDIES</li>
+				<li>BLOG</li>
+				<li>CONTACT</li>
+				</li>
+			</ul>
+		</nav>
+		</div>
+	</header>
+
+	<section>
+		<input type="search" placeholder="Search">
+
+		
+		<img src="img/oranges.png">
+
+		<div class="middle">
+
+			<h1><span>orange</span>juice<sup>&#8482;</sup>use only the very<br>best design fruits to create<br> your <span class="teal">web </span>&<span class="teal"> app</span> designs.</h1>
+		</div>
+
+		<div class="buttons">
+
+			<div id="buttonleft">
+				<button>GET A QUOTE </button>
+			</div>
+			<div id="buttonright">
+				<button>VIEW CASE STUDIES</button>
+			</div>
+		</div>
+	<footer>
+		
+	</footer>
+	</section>
+	
+
+</body>
+
+	
+
+
+</body>
+</html>
